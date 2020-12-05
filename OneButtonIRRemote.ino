@@ -5,7 +5,7 @@
  * 
  * Beware with a low volatage supply this code may result in the LED staying on.
  * 
- * More info about this proect is avalable at 
+ * More info about this proect is avalable at https://garrysblog.com/2020/12/05/ir-remote-control-mute-button/
  * 
  * Microcontroller goes into sleep mode while button is not pressed. When
  * pressed mcu wakes up sends codes and goes back to sleep to conserve power.
